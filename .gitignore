@@ -1,0 +1,8 @@
+x64/
+.vs/
+.vcxproj.user
+*solution*
+*.nsys-rep
+*.sqlite
+*.ncu-rep
+bin/
